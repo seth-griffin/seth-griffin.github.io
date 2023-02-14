@@ -16,6 +16,7 @@ I have successfully delivered solutions in the following verticals:
 
 - Air Travel
 - Air Pollution Control
+- E-commerce
 - Web Marketing, Digital Marketing in both the Ad Agency and Affiliate marketing space
 - Medical Information Systems (Message based, Event Driven CERNER integrations using python into Java Microservices within Ascension Health System)
 - A breif stint in On Premise Intrusion Detection managing a team that wrote and maintained an updater system and internal build tool chain 
@@ -25,7 +26,7 @@ Technique wise I am adept at all of the following:
 
 - Agile
 - Scrum
-- XP (this gets my <3)
+- XP (this wins my <3)
 - Microservices Architecture
 - Event Driven and Message based data integration and ingest
 - TDD, Unit Testing, Integration Testing, End to End Testing, Smoke Testing
