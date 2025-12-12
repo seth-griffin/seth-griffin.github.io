@@ -4,23 +4,24 @@ title: About
 permalink: /about/
 ---
 
-I'm Seth Griffin. I have worked for 16 years in the field of software development on all kinds of different technologies, languages and platforms. I love to code and I have also had the humble privilege to manage and lead teams of very talented software and DevOps engineers, both professionals and hackers alike. I am a language polyglot currently focussing on:
+I'm Seth Griffin. I have worked for 20 years in the field of software development on all kinds of different technologies, languages and platforms. I love to code and I have also had the humble privilege to manage and lead teams of very talented software and DevOps engineers, both professionals and hackers alike. I am a language polyglot currently focussing on:
 
 - Python
+- C/C++
 - Java (Spring framework only for the time being)
 - PHP (Core, Zend, Symfony and Magento I + II)
-- Go (Self taught and just starting out)
-- In the past I have also coded C++ MFC desktop apps on Windows, a variety of .NET, COM, Web, CLI and Forms applications
+- In the past I have also coded C++ MFC desktop apps on Windows, a variety of .NET, COM, Web, CLI and Forms applications including win32 native apps
 
 I have successfully delivered solutions in the following verticals:
 
 - Air Travel
 - Air Pollution Control
 - E-commerce
+- Fintech (Microlending)
 - Web Marketing, Digital Marketing in both the Ad Agency and Affiliate marketing space
 - Medical Information Systems (Message based, Event Driven CERNER integrations using python into Java Microservices within Ascension Health System)
 - A breif stint in On Premise Intrusion Detection managing a team that wrote and maintained an updater system and internal build tool chain 
-- Construction (roofing)
+- Construction (Roofing supply logistics and delivery)
 
 Technique wise I am adept at all of the following:
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to the Arc Programming Language"
 date:   2025-12-11 13:01:00 -0600
-categories: programming lisp arc scheme functional-programming
+categories: programming functional-programming lisp scheme arc
 ---
 
 # Introduction to the Arc Programming Language
