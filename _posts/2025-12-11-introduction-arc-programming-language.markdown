@@ -514,7 +514,7 @@ In arc sort is stable meaning elements judged equal by the comparator will not h
 
 Optional function arguments are prefixed with o as in (o x)
 
-{% highlight %}
+{% highlight bash %}
 (def greet (name (o punc))
 > #<procedure: greet>
 (greet 'joe)
