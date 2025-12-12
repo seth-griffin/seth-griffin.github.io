@@ -2,12 +2,12 @@
 layout: post
 title:  "Introduction to the Arc Programming Language"
 date:   2025-12-11 13:01:00 -0600
-categories: programming functional-programming lisp scheme arc
+categories: programming functional-programming LISP scheme arc
 ---
 
 # Introduction to the Arc Programming Language
 
-Arc is a lisp dialect built on top of Racket (formerly scheme)
+Arc is a LISP dialect built on top of Racket (formerly scheme)
 
 ## Quick start 
 
@@ -567,7 +567,7 @@ The above capabilities represent sufficient knowledge to start writing macros
 
 ## Macros
 
-Macros, in lisp, generate generate code by expanding at runtime.
+Macros, in LISP, generate generate code by expanding at runtime.
 
 Consider the following example:
 
@@ -669,7 +669,7 @@ To avoid rewrite the macro using uniq
 
 To use uniq more than once use w/uniq.
 
-Note: w/ is a macro in racket that reads and skips whitespace and linebreaks until a non-whitespace character or second end-of-line is found.
+Note: w/ is a macro in <a href="https://www.racket-lang.org/">Racket</a> that reads and skips whitespace and linebreaks until a non-whitespace character or second end-of-line is found.
 
 ## Web applications
 
@@ -705,7 +705,7 @@ Additional examples of defops that can be stored for a web application:
 
 There is a sample application in blog.arc that can be read for more ideas about how to make more functional web applications
 
-arc.arc defines core functionality and can be studied to learn more about what arc can do out of the box
+<a href="https://raw.githubusercontent.com/arclanguage/arc-nu/refs/heads/arc/nu/lang/arc/3.1/arc.arc">arc.arc</a> defines core functionality and can be studied to learn more about what arc can do out of the box
 
 The following are some of the simpler functions included
 
