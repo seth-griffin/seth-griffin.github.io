@@ -256,7 +256,7 @@ map will continue until the shorter of the two lists runs out
 {% highlight bash %}
 (map + '(1 2 3 4) '(100 200 300))
 > (101 202 303)
-{% end highlight %}
+{% endhighlight %}
 
 functions with one argument are very comon, Arc has a special notation for such cases
 
